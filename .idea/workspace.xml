@@ -4,52 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc4b93b9-2e84-4a80-9cfe-bb70da602a52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaThread3_Module2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/ex1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/ex1/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/ex1/animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/ex1/animals/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/ex1/animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/ex1/animals/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/ex2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/ex3/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/ex3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/ex3/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex1/product/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex1/product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex1/product/Shoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex1/product/Vodka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex1/shop/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex1/shop/ShopPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex1/shop/ShopShoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex1/shop/ShopVodka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex1/shop/ShopWithoutGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex2/AppleComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex2/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex2/input/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex2/input/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex2/input/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex2/output/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex2/output/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex2/output/SoundBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex3/Marker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex3/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex3/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex3/Water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson2/ex1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson2/ex2/Runner.java" afterDir="false" />
-    </list>
+    <list default="true" id="bc4b93b9-2e84-4a80-9cfe-bb70da602a52" name="Changes" comment="Homework 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,20 +26,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/valha/IdeaProjects/Toyota&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.infernus.idea.checkstyle.CheckStyleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/valha/IdeaProjects/JavaThread3_Module2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.infernus.idea.checkstyle.CheckStyleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\valha\IdeaProjects\JavaThread3_Module2\src\com\javaacademy\lessons\" />
@@ -137,11 +92,25 @@
       <workItem from="1705147320024" duration="3904000" />
       <workItem from="1705209642482" duration="181000" />
       <workItem from="1705222468881" duration="8000" />
+      <workItem from="1705246909245" duration="372000" />
     </task>
+    <task id="LOCAL-00001" summary="Homework 1">
+      <option name="closed" value="true" />
+      <created>1705247260113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705247260113</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
