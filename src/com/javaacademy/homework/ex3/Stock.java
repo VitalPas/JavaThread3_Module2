@@ -6,9 +6,6 @@ import java.util.List;
 public class Stock {
     private final List<Item> itemsList = new ArrayList<>();
 
-    public Stock() {
-    }
-
     public List<Item> getItemsList() {
         return itemsList;
     }
