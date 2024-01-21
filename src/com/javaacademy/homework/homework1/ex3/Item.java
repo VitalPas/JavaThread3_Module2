@@ -1,4 +1,4 @@
-package com.javaacademy.homework.ex3;
+package com.javaacademy.homework.homework1.ex3;
 
 public class Item {
 

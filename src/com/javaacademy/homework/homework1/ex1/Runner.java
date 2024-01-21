@@ -1,6 +1,6 @@
-package com.javaacademy.homework.ex1;
+package com.javaacademy.homework.homework1.ex1;
 
-import com.javaacademy.homework.ex1.animals.*;
+import com.javaacademy.homework.homework1.ex1.animals.*;
 
 public class Runner {
     public static void main(String[] args) {

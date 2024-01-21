@@ -1,6 +1,6 @@
-package com.javaacademy.homework.ex1;
+package com.javaacademy.homework.homework1.ex1;
 
-import com.javaacademy.homework.ex1.animals.Animal;
+import com.javaacademy.homework.homework1.ex1.animals.Animal;
 
 public class Zoo<T extends Animal, S extends Animal, V extends Animal> {
     private T animal1;

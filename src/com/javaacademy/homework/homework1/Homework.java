@@ -1,4 +1,4 @@
-package com.javaacademy.homework;
+package com.javaacademy.homework.homework1;
 
 public class Homework {
     //Задание №1 Зоопарк

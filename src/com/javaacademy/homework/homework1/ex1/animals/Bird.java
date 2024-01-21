@@ -1,4 +1,4 @@
-package com.javaacademy.homework.ex1.animals;
+package com.javaacademy.homework.homework1.ex1.animals;
 
 public class Bird extends Animal {
 
