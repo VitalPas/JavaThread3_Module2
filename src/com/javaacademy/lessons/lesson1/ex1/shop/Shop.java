@@ -2,7 +2,7 @@ package com.javaacademy.lessons.lesson1.ex1.shop;
 
 import com.javaacademy.lessons.lesson1.ex1.product.Product;
 
-public class Shop <T extends Product> {
+public class Shop<T extends Product> {
     private T product;
     private int totalIncome = 0;
 

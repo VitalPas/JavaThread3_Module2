@@ -9,6 +9,5 @@ public class Runner {
 
         Milk milk = new Milk();
         Milk milk1 = Marker.makeMark(milk);
-
     }
 }

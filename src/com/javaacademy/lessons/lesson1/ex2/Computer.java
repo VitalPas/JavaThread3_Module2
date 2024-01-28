@@ -29,5 +29,4 @@ public class Computer<I extends Input, O extends Output> implements Input, Outpu
     public O getOutput() {
         return output;
     }
-
 }

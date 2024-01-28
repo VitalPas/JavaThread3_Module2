@@ -4,6 +4,7 @@ import com.javaacademy.lessons.lesson1.ex2.input.Keyboard;
 import com.javaacademy.lessons.lesson1.ex2.input.Mouse;
 import com.javaacademy.lessons.lesson1.ex2.output.Monitor;
 import com.javaacademy.lessons.lesson1.ex2.output.SoundBox;
+
 import java.util.ArrayList;
 
 public class Runner {
@@ -24,6 +25,5 @@ public class Runner {
         box.changeVolume();
 
         ArrayList arrayList = new ArrayList();
-
     }
 }

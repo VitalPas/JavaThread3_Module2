@@ -1,8 +1,6 @@
 package com.javaacademy.lessons.lesson1.ex3;
 
 public class Marker {
-
-
     public static <T extends Product> T makeMark(T product) {
         product.setHasMark(true);
         return product;
@@ -17,5 +15,4 @@ public class Marker {
         water.setHasMark(true);
         return water;
     }
-
 }
