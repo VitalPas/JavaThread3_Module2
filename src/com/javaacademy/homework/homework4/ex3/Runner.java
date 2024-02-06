@@ -9,9 +9,9 @@ public class Runner {
 
         Skyscraper wordMall = new Skyscraper("Всемирный торговый центр", 541);
         Skyscraper shanghaiTower = new Skyscraper("Шанхайская башня", 632);
-        Skyscraper burjKhalifa = new Skyscraper("Бурдж-Халифа", 828);
+        Skyscraper burjKhalifa = new Skyscraper("Бурдж-Халифа", 1010);
         Skyscraper internationalFinancePinan =
-                new Skyscraper("Международный финансовый центр Пинань", 599);
+                new Skyscraper("Международный финансовый центр Пинань", 1020);
         Skyscraper abrajalBayt = new Skyscraper("Абрадж аль-Бейт", 601);
         Skyscraper lotteWorldCenter = new Skyscraper("Всемирный центр Лотте", 555);
 
@@ -42,7 +42,9 @@ public class Runner {
         skyscrapersWithoutDuplicate.stream()
                 .filter(skyscraper -> skyscraper.getHeight() > 1000)
                 .peek(System.out::println)
-                .findFirst()
+                .toList()
+                .stream()
+                .findAny()
                 .orElseThrow(() -> new RuntimeException("Небоскреба выше километра нет"));
     }
 
