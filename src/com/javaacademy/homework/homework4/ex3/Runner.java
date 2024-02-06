@@ -9,9 +9,9 @@ public class Runner {
 
         Skyscraper wordMall = new Skyscraper("Всемирный торговый центр", 541);
         Skyscraper shanghaiTower = new Skyscraper("Шанхайская башня", 632);
-        Skyscraper burjKhalifa = new Skyscraper("Бурдж-Халифа", 1010);
+        Skyscraper burjKhalifa = new Skyscraper("Бурдж-Халифа", 828);
         Skyscraper internationalFinancePinan =
-                new Skyscraper("Международный финансовый центр Пинань", 1020);
+                new Skyscraper("Международный финансовый центр Пинань", 599);
         Skyscraper abrajalBayt = new Skyscraper("Абрадж аль-Бейт", 601);
         Skyscraper lotteWorldCenter = new Skyscraper("Всемирный центр Лотте", 555);
 
@@ -45,7 +45,8 @@ public class Runner {
                 .toList()
                 .stream()
                 .findAny()
-                .orElseThrow(() -> new RuntimeException("Небоскреба выше километра нет"));
+                .ifPresentOrElse(skyscraper -> {}, () -> System.out.println("Небоскреба выше километра нет"));
+
     }
 
     private static int maxHeightSkyscraper(List<Skyscraper> skyscrapers) {
