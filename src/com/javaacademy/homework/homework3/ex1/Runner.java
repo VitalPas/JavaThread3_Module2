@@ -2,7 +2,6 @@ package com.javaacademy.homework.homework3.ex1;
 
 import java.time.LocalDateTime;
 import java.util.Comparator;
-import java.util.HashSet;
 import java.util.TreeSet;
 
 public class Runner {

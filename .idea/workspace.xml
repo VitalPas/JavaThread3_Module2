@@ -4,67 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc4b93b9-2e84-4a80-9cfe-bb70da602a52" name="Changes" comment="Homework 2">
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex1/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex2/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex2/Apricot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex2/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex2/Garden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex3/Divination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex3/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex4/Burning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex4/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex4/Uranus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex4/Wood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex5/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex5/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex5/Ruler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex5/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson5/ex1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson5/ex2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson5/ex3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson5/ex3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson5/ex3/StudentComparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex10/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex2/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex3/cars/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex3/cars/Machine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex3/cars/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex3/cars/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex3/factory/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex3/factory/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex3/factory/MotoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex3/factory/TruckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex4/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex4/MathFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex4/MathFunctionAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex4/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex5/Calibrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex5/Children.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex5/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex6/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex6/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex7/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex7/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex7/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex7/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex7/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex8/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex9/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson6/ex9/Runner.java" afterDir="false" />
+    <list default="true" id="bc4b93b9-2e84-4a80-9cfe-bb70da602a52" name="Changes" comment="Homework 3">
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework4/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework4/ex1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework4/ex1/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework4/ex2/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework4/ex3/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework4/ex3/Skyscraper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson7/ex1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson7/ex1/Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson7/ex1/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson7/ex2/CallCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson7/ex2/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson7/ex3/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson7/ex4/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson7/ex5/Optional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson7/ex5/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson8/ex1/ConsumerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson8/ex1/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson8/ex1/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex1/shop/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex1/shop/Shop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex2/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex2/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex2/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex2/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex3/Marker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex3/Marker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex3/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaacademy/lessons/lesson1/ex3/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex1/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaacademy/homework/homework3/ex1/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +69,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/valha/IdeaProjects/JavaThread3_Module2/src/com/javaacademy/homework",
+    "last_opened_file_path": "C:/Users/valha/IdeaProjects/JavaThread3_Module2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -135,7 +95,7 @@
       <recent name="com.javaacademy.homework.homework2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javaacademy.homework.homework3.ex4.Runner">
+  <component name="RunManager" selected="Application.com.javaacademy.homework.homework4.ex1.Runner">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaacademy.homework.homework3.ex1.Runner" />
       <module name="JavaThread3_Module2" />
@@ -149,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javaacademy.homework.homework3.ex2.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaacademy.homework.homework3.ex2.Runner" />
+    <configuration name="com.javaacademy.homework.homework4.ex1.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaacademy.homework.homework4.ex1.Runner" />
       <module name="JavaThread3_Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaacademy.homework.homework3.ex2.*" />
+          <option name="PATTERN" value="com.javaacademy.homework.homework4.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javaacademy.homework.homework3.ex3.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaacademy.homework.homework3.ex3.Runner" />
+    <configuration name="com.javaacademy.homework.homework4.ex2.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaacademy.homework.homework4.ex2.Runner" />
       <module name="JavaThread3_Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaacademy.homework.homework3.ex3.*" />
+          <option name="PATTERN" value="com.javaacademy.homework.homework4.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javaacademy.homework.homework3.ex4.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaacademy.homework.homework3.ex4.Runner" />
+    <configuration name="com.javaacademy.homework.homework4.ex3.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaacademy.homework.homework4.ex3.Runner" />
       <module name="JavaThread3_Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaacademy.homework.homework3.ex4.*" />
+          <option name="PATTERN" value="com.javaacademy.homework.homework4.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javaacademy.homework.homework3.ex5.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaacademy.homework.homework3.ex5.Runner" />
+    <configuration name="com.javaacademy.lessons.lesson7.ex5.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaacademy.lessons.lesson7.ex5.Runner" />
       <module name="JavaThread3_Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaacademy.homework.homework3.ex5.*" />
+          <option name="PATTERN" value="com.javaacademy.lessons.lesson7.ex5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,10 +163,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.javaacademy.homework.homework3.ex4.Runner" />
-        <item itemvalue="Application.com.javaacademy.homework.homework3.ex5.Runner" />
-        <item itemvalue="Application.com.javaacademy.homework.homework3.ex3.Runner" />
-        <item itemvalue="Application.com.javaacademy.homework.homework3.ex2.Runner" />
+        <item itemvalue="Application.com.javaacademy.homework.homework4.ex1.Runner" />
+        <item itemvalue="Application.com.javaacademy.homework.homework4.ex2.Runner" />
+        <item itemvalue="Application.com.javaacademy.homework.homework4.ex3.Runner" />
+        <item itemvalue="Application.com.javaacademy.lessons.lesson7.ex5.Runner" />
         <item itemvalue="Application.Runner" />
       </list>
     </recent_temporary>
@@ -237,6 +197,16 @@
       <workItem from="1706009368903" duration="19000" />
       <workItem from="1706273027305" duration="3603000" />
       <workItem from="1706332428060" duration="7028000" />
+      <workItem from="1706451261224" duration="152000" />
+      <workItem from="1706528028409" duration="229000" />
+      <workItem from="1706531571868" duration="49000" />
+      <workItem from="1706948328482" duration="704000" />
+      <workItem from="1706949083198" duration="284000" />
+      <workItem from="1706949725348" duration="8615000" />
+      <workItem from="1706959003526" duration="3417000" />
+      <workItem from="1707043053418" duration="7286000" />
+      <workItem from="1707125748358" duration="11000" />
+      <workItem from="1707216282504" duration="2884000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 1">
       <option name="closed" value="true" />
@@ -270,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705859147521</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Homework 3">
+      <option name="closed" value="true" />
+      <created>1706451342226</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706451342226</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,7 +258,8 @@
     <MESSAGE value="Homework 1" />
     <MESSAGE value="Homework 1 refactor" />
     <MESSAGE value="Homework 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 2" />
+    <MESSAGE value="Homework 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
